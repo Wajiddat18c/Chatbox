@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="17d9dd7d-fb13-4cb9-bedd-9ea6de45e1fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Log/log.txt.lck" beforeDir="false" afterPath="$PROJECT_DIR$/src/Log/chatlog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Log/chatlog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Log/chatlog.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MyClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MyServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyServer.java" afterDir="false" />
     </list>
@@ -101,7 +101,8 @@
       <updated>1568702141250</updated>
       <workItem from="1568702145236" duration="7938000" />
       <workItem from="1568805936254" duration="447000" />
-      <workItem from="1568807549657" duration="473000" />
+      <workItem from="1568807549657" duration="561000" />
+      <workItem from="1568840602765" duration="1034000" />
     </task>
     <servers />
   </component>
@@ -113,7 +114,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
