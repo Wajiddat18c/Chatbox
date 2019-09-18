@@ -1,0 +1,26 @@
+sep. 17, 2019 9:53:32 AM MyServer main
+INFO: HEj med dig!
+sep. 17, 2019 9:53:40 AM MyServer main
+INFO: hvad laver du?
+sep. 17, 2019 9:53:51 AM MyServer main
+INFO: okay vi ses!
+sep. 17, 2019 9:53:57 AM MyServer main
+INFO: stop
+HEj med dig!hvad laver du?okay vi ses!stopsep. 17, 2019 10:24:58 AM MyServer main
+INFO: HELLO
+sep. 17, 2019 10:25:09 AM MyServer main
+INFO: HVad laver du?
+sep. 17, 2019 10:25:16 AM MyServer main
+INFO: stop
+HELLOHVad laver du?stopsep. 17, 2019 10:34:09 AM MyServer main
+INFO: hej
+sep. 17, 2019 10:40:04 AM MyServer main
+INFO: hello
+sep. 17, 2019 10:40:20 AM MyServer main
+INFO: what are you ding?
+sep. 17, 2019 10:43:08 AM MyServer main
+INFO: hello
+sep. 17, 2019 10:43:30 AM MyServer main
+INFO: hi
+sep. 17, 2019 10:46:53 AM MyServer main
+INFO: ikke så meget
