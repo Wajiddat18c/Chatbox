@@ -12,3 +12,31 @@ sep. 18, 2019 2:00:51 PM MyServer main
 INFO: ses
 sep. 18, 2019 2:01:00 PM MyServer main
 INFO: stop
+sep. 18, 2019 11:04:25 PM MyServer main
+INFO: HEJ igen 
+sep. 18, 2019 11:04:35 PM MyServer main
+INFO: er du oppe?
+sep. 18, 2019 11:04:41 PM MyServer main
+INFO: stop
+sep. 18, 2019 11:07:56 PM MyServer main
+INFO: hello
+sep. 18, 2019 11:08:05 PM MyServer main
+INFO: hej
+sep. 18, 2019 11:08:16 PM MyServer main
+INFO: stop
+sep. 18, 2019 11:30:09 PM MyServer main
+INFO: HEJIGEN
+sep. 18, 2019 11:30:19 PM MyServer main
+INFO: hvem er du
+sep. 18, 2019 11:30:21 PM MyServer main
+INFO: okses
+sep. 18, 2019 11:30:23 PM MyServer main
+INFO: nej tak
+sep. 18, 2019 11:30:26 PM MyServer main
+INFO: stop
+sep. 18, 2019 11:31:29 PM MyServer main
+INFO: Test run kl 23:31
+sep. 18, 2019 11:31:34 PM MyServer main
+INFO: afsluttet
+sep. 18, 2019 11:31:35 PM MyServer main
+INFO: stop
