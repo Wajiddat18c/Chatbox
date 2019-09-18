@@ -16,16 +16,19 @@ class MyServer {
         SimpleFormatter formatter = new SimpleFormatter();
         fileHandler.setFormatter(formatter);
         logger.addHandler(fileHandler);
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
+        String user2;
+        user2=din.readUTF();
+
+        System.out.println("USERNAME: " + user2);
 
         String str = "", str2 = "";
         while (!str.equals("stop")) {
-
             str = din.readUTF();
-            System.out.println("client says: " + str);
-
+            System.out.println(user2 + " says: " + str);
             dout.writeUTF(str2);
-            logger.info(str);
+            logger.info(user2 + ": "+ str);
             dout.flush();
         }
 

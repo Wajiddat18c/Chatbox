@@ -44,6 +44,13 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.MyClient">
+    <configuration name="ChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChatServer" />
+      <module name="Chatbox" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Chatbox" />
@@ -54,7 +61,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MyClient" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyClient" />
       <module name="Chatbox" />
       <method v="2">
@@ -80,11 +87,13 @@
       <item itemvalue="Application.MyServer" />
       <item itemvalue="Application.MyClient" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.ChatServer" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.MyClient" />
         <item itemvalue="Application.MyServer" />
+        <item itemvalue="Application.ChatServer" />
         <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
@@ -102,7 +111,7 @@
       <workItem from="1568702145236" duration="7938000" />
       <workItem from="1568805936254" duration="447000" />
       <workItem from="1568807549657" duration="561000" />
-      <workItem from="1568840602765" duration="1034000" />
+      <workItem from="1568840602765" duration="5673000" />
     </task>
     <servers />
   </component>
