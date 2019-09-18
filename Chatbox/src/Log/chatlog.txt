@@ -1,0 +1,14 @@
+sep. 18, 2019 1:59:34 PM MyServer main
+INFO: HVA SÅ NY CHATLOH?
+sep. 18, 2019 1:59:43 PM MyServer main
+INFO: haha laver sjov xd
+sep. 18, 2019 1:59:49 PM MyServer main
+INFO: stop
+HVA SÅ NY CHATLOH?haha laver sjov xdstopsep. 18, 2019 2:00:39 PM MyServer main
+INFO: HEJ MED DIG
+sep. 18, 2019 2:00:46 PM MyServer main
+INFO: OKAY.
+sep. 18, 2019 2:00:51 PM MyServer main
+INFO: ses
+sep. 18, 2019 2:01:00 PM MyServer main
+INFO: stop
