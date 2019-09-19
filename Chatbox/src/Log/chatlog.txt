@@ -126,3 +126,25 @@ sep. 19, 2019 2:30:11 AM MyServer main
 INFO: ASGER: g
 sep. 19, 2019 2:30:12 AM MyServer main
 INFO: ASGER: stop
+sep. 19, 2019 6:31:30 AM ServerTest run
+INFO: ali: HEJ
+sep. 19, 2019 6:35:35 AM ServerTest run
+INFO: ali: HEJ JEG ER ALI
+sep. 19, 2019 6:35:44 AM ServerTest run
+INFO: john: HEJ MIT NAVN ER JOHN
+sep. 19, 2019 6:36:08 AM ServerTest run
+INFO: ali: stop
+sep. 19, 2019 6:36:12 AM ServerTest run
+INFO: john: stop
+sep. 19, 2019 6:50:46 AM ServerTest run
+INFO: ib: hej med je
+sep. 19, 2019 6:50:54 AM ServerTest run
+INFO: ALI: ok
+sep. 19, 2019 6:50:58 AM ServerTest run
+INFO: WAJID: er du sej?
+sep. 19, 2019 6:51:03 AM ServerTest run
+INFO: WAJID: stop
+sep. 19, 2019 6:51:06 AM ServerTest run
+INFO: ALI: stop
+sep. 19, 2019 6:51:12 AM ServerTest run
+INFO: ib: stop

@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17d9dd7d-fb13-4cb9-bedd-9ea6de45e1fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ServerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Log/chatlog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Log/chatlog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyClient.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyServer">
+  <component name="RunManager" selected="Application.MyClient">
     <configuration name="ChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ChatServer" />
       <module name="Chatbox" />
@@ -90,9 +93,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.MyClient" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.MyServer" />
         <item itemvalue="Application.ChatServer" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +112,7 @@
       <workItem from="1568702145236" duration="7938000" />
       <workItem from="1568805936254" duration="447000" />
       <workItem from="1568807549657" duration="561000" />
-      <workItem from="1568840602765" duration="6545000" />
+      <workItem from="1568840602765" duration="8593000" />
     </task>
     <servers />
   </component>
