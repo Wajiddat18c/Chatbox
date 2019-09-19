@@ -86,3 +86,43 @@ sep. 19, 2019 2:27:44 AM MyServer main
 INFO: Wajid: Hej med dig
 sep. 19, 2019 2:28:01 AM MyServer main
 INFO: Wajid: stop
+sep. 19, 2019 2:30:07 AM MyServer main
+INFO: ASGER: fkafa
+sep. 19, 2019 2:30:08 AM MyServer main
+INFO: ASGER: af'afa'fa'fa'f
+sep. 19, 2019 2:30:08 AM MyServer main
+INFO: ASGER: af
+sep. 19, 2019 2:30:08 AM MyServer main
+INFO: ASGER: a
+sep. 19, 2019 2:30:09 AM MyServer main
+INFO: ASGER: fa
+sep. 19, 2019 2:30:09 AM MyServer main
+INFO: ASGER: f
+sep. 19, 2019 2:30:09 AM MyServer main
+INFO: ASGER: ear
+sep. 19, 2019 2:30:09 AM MyServer main
+INFO: ASGER: 
+sep. 19, 2019 2:30:09 AM MyServer main
+INFO: ASGER: 41
+sep. 19, 2019 2:30:09 AM MyServer main
+INFO: ASGER: 41
+sep. 19, 2019 2:30:10 AM MyServer main
+INFO: ASGER: 4
+sep. 19, 2019 2:30:10 AM MyServer main
+INFO: ASGER: 1
+sep. 19, 2019 2:30:10 AM MyServer main
+INFO: ASGER: gs
+sep. 19, 2019 2:30:10 AM MyServer main
+INFO: ASGER: bv
+sep. 19, 2019 2:30:10 AM MyServer main
+INFO: ASGER: seg
+sep. 19, 2019 2:30:10 AM MyServer main
+INFO: ASGER: s
+sep. 19, 2019 2:30:11 AM MyServer main
+INFO: ASGER: gesg
+sep. 19, 2019 2:30:11 AM MyServer main
+INFO: ASGER: se
+sep. 19, 2019 2:30:11 AM MyServer main
+INFO: ASGER: g
+sep. 19, 2019 2:30:12 AM MyServer main
+INFO: ASGER: stop
