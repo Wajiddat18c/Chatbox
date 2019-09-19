@@ -82,3 +82,7 @@ sep. 19, 2019 1:15:14 AM MyServer main
 INFO: ali: hey
 sep. 19, 2019 1:15:16 AM MyServer main
 INFO: ali: stop
+sep. 19, 2019 2:27:44 AM MyServer main
+INFO: Wajid: Hej med dig
+sep. 19, 2019 2:28:01 AM MyServer main
+INFO: Wajid: stop

@@ -7,8 +7,11 @@ import java.util.logging.SimpleFormatter;
 class MyServer {
 
     public static void main(String args[]) throws Exception {
-        ServerSocket ss = new ServerSocket(4567);
+        final int portNumber = 4567;
+        System.out.println("Creating server socket on port " + portNumber);
+        ServerSocket ss = new ServerSocket(portNumber);
         Socket s = ss.accept();
+        System.out.println("Connected to a Client!");
         DataInputStream din = new DataInputStream(s.getInputStream());
         DataOutputStream dout = new DataOutputStream(s.getOutputStream());
         Logger logger = Logger.getLogger("MyLog");
