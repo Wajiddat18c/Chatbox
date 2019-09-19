@@ -3,7 +3,7 @@ import java.io.*;
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
 
-class MyClient {
+class ClientRun {
     public static void main(String args[]) throws Exception {
         Scanner scan = new Scanner(System.in);
         int valg;
@@ -36,7 +36,7 @@ class MyClient {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String str = "";
-
+        String allMsg = "";
         String user;
         System.out.print("Skriv UserName Her: ");
         user = br.readLine();
@@ -46,7 +46,8 @@ class MyClient {
         while (!str.equals("stop")) {
                 str = br.readLine();
                 dout.writeUTF(str);
-
+                allMsg = din.readUTF();
+                System.out.println(user + " siger: " + allMsg);
                 dout.flush();
                 System.out.println("Modtaget");
             }

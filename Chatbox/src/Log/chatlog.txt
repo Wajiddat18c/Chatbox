@@ -1,150 +1,184 @@
-sep. 18, 2019 1:59:34 PM MyServer main
+sep. 18, 2019 1:59:34 PM MyOLDServer main
 INFO: HVA SÅ NY CHATLOH?
-sep. 18, 2019 1:59:43 PM MyServer main
+sep. 18, 2019 1:59:43 PM MyOLDServer main
 INFO: haha laver sjov xd
-sep. 18, 2019 1:59:49 PM MyServer main
+sep. 18, 2019 1:59:49 PM MyOLDServer main
 INFO: stop
-HVA SÅ NY CHATLOH?haha laver sjov xdstopsep. 18, 2019 2:00:39 PM MyServer main
+HVA SÅ NY CHATLOH?haha laver sjov xdstopsep. 18, 2019 2:00:39 PM MyOLDServer main
 INFO: HEJ MED DIG
-sep. 18, 2019 2:00:46 PM MyServer main
+sep. 18, 2019 2:00:46 PM MyOLDServer main
 INFO: OKAY.
-sep. 18, 2019 2:00:51 PM MyServer main
+sep. 18, 2019 2:00:51 PM MyOLDServer main
 INFO: ses
-sep. 18, 2019 2:01:00 PM MyServer main
+sep. 18, 2019 2:01:00 PM MyOLDServer main
 INFO: stop
-sep. 18, 2019 11:04:25 PM MyServer main
+sep. 18, 2019 11:04:25 PM MyOLDServer main
 INFO: HEJ igen 
-sep. 18, 2019 11:04:35 PM MyServer main
+sep. 18, 2019 11:04:35 PM MyOLDServer main
 INFO: er du oppe?
-sep. 18, 2019 11:04:41 PM MyServer main
+sep. 18, 2019 11:04:41 PM MyOLDServer main
 INFO: stop
-sep. 18, 2019 11:07:56 PM MyServer main
+sep. 18, 2019 11:07:56 PM MyOLDServer main
 INFO: hello
-sep. 18, 2019 11:08:05 PM MyServer main
+sep. 18, 2019 11:08:05 PM MyOLDServer main
 INFO: hej
-sep. 18, 2019 11:08:16 PM MyServer main
+sep. 18, 2019 11:08:16 PM MyOLDServer main
 INFO: stop
-sep. 18, 2019 11:30:09 PM MyServer main
+sep. 18, 2019 11:30:09 PM MyOLDServer main
 INFO: HEJIGEN
-sep. 18, 2019 11:30:19 PM MyServer main
+sep. 18, 2019 11:30:19 PM MyOLDServer main
 INFO: hvem er du
-sep. 18, 2019 11:30:21 PM MyServer main
+sep. 18, 2019 11:30:21 PM MyOLDServer main
 INFO: okses
-sep. 18, 2019 11:30:23 PM MyServer main
+sep. 18, 2019 11:30:23 PM MyOLDServer main
 INFO: nej tak
-sep. 18, 2019 11:30:26 PM MyServer main
+sep. 18, 2019 11:30:26 PM MyOLDServer main
 INFO: stop
-sep. 18, 2019 11:31:29 PM MyServer main
-INFO: Test run kl 23:31
-sep. 18, 2019 11:31:34 PM MyServer main
+sep. 18, 2019 11:31:29 PM MyOLDServer main
+INFO: ServerRun run kl 23:31
+sep. 18, 2019 11:31:34 PM MyOLDServer main
 INFO: afsluttet
-sep. 18, 2019 11:31:35 PM MyServer main
+sep. 18, 2019 11:31:35 PM MyOLDServer main
 INFO: stop
-sep. 18, 2019 11:41:51 PM MyServer main
+sep. 18, 2019 11:41:51 PM MyOLDServer main
 INFO: client1
-sep. 18, 2019 11:42:11 PM MyServer main
+sep. 18, 2019 11:42:11 PM MyOLDServer main
 INFO: client11
-sep. 18, 2019 11:42:22 PM MyServer main
+sep. 18, 2019 11:42:22 PM MyOLDServer main
 INFO: adas
-sep. 18, 2019 11:42:22 PM MyServer main
+sep. 18, 2019 11:42:22 PM MyOLDServer main
 INFO: as
-sep. 18, 2019 11:42:23 PM MyServer main
+sep. 18, 2019 11:42:23 PM MyOLDServer main
 INFO: da
-sep. 18, 2019 11:42:23 PM MyServer main
+sep. 18, 2019 11:42:23 PM MyOLDServer main
 INFO: f
-sep. 18, 2019 11:42:23 PM MyServer main
+sep. 18, 2019 11:42:23 PM MyOLDServer main
 INFO: a
-sep. 18, 2019 11:42:23 PM MyServer main
+sep. 18, 2019 11:42:23 PM MyOLDServer main
 INFO: g
-sep. 18, 2019 11:42:23 PM MyServer main
+sep. 18, 2019 11:42:23 PM MyOLDServer main
 INFO: 
-sep. 18, 2019 11:42:25 PM MyServer main
+sep. 18, 2019 11:42:25 PM MyOLDServer main
 INFO: g
-sep. 19, 2019 12:16:24 AM MyServer main
+sep. 19, 2019 12:16:24 AM MyOLDServer main
 INFO: hello
-sep. 19, 2019 12:47:29 AM MyServer main
+sep. 19, 2019 12:47:29 AM MyOLDServer main
 INFO: ali
-sep. 19, 2019 12:47:29 AM MyServer main
+sep. 19, 2019 12:47:29 AM MyOLDServer main
 INFO: ad
-sep. 19, 2019 12:49:37 AM MyServer main
+sep. 19, 2019 12:49:37 AM MyOLDServer main
 INFO: hej
-sep. 19, 2019 12:52:41 AM MyServer main
+sep. 19, 2019 12:52:41 AM MyOLDServer main
 INFO: HEJ
-sep. 19, 2019 12:52:49 AM MyServer main
+sep. 19, 2019 12:52:49 AM MyOLDServer main
 INFO: ok
-sep. 19, 2019 12:52:55 AM MyServer main
+sep. 19, 2019 12:52:55 AM MyOLDServer main
 INFO: stop
-sep. 19, 2019 1:14:40 AM MyServer main
+sep. 19, 2019 1:14:40 AM MyOLDServer main
 INFO: ali: HEJ
-sep. 19, 2019 1:14:51 AM MyServer main
+sep. 19, 2019 1:14:51 AM MyOLDServer main
 INFO: ali: YO
-sep. 19, 2019 1:15:14 AM MyServer main
+sep. 19, 2019 1:15:14 AM MyOLDServer main
 INFO: ali: hey
-sep. 19, 2019 1:15:16 AM MyServer main
+sep. 19, 2019 1:15:16 AM MyOLDServer main
 INFO: ali: stop
-sep. 19, 2019 2:27:44 AM MyServer main
+sep. 19, 2019 2:27:44 AM MyOLDServer main
 INFO: Wajid: Hej med dig
-sep. 19, 2019 2:28:01 AM MyServer main
+sep. 19, 2019 2:28:01 AM MyOLDServer main
 INFO: Wajid: stop
-sep. 19, 2019 2:30:07 AM MyServer main
+sep. 19, 2019 2:30:07 AM MyOLDServer main
 INFO: ASGER: fkafa
-sep. 19, 2019 2:30:08 AM MyServer main
+sep. 19, 2019 2:30:08 AM MyOLDServer main
 INFO: ASGER: af'afa'fa'fa'f
-sep. 19, 2019 2:30:08 AM MyServer main
+sep. 19, 2019 2:30:08 AM MyOLDServer main
 INFO: ASGER: af
-sep. 19, 2019 2:30:08 AM MyServer main
+sep. 19, 2019 2:30:08 AM MyOLDServer main
 INFO: ASGER: a
-sep. 19, 2019 2:30:09 AM MyServer main
+sep. 19, 2019 2:30:09 AM MyOLDServer main
 INFO: ASGER: fa
-sep. 19, 2019 2:30:09 AM MyServer main
+sep. 19, 2019 2:30:09 AM MyOLDServer main
 INFO: ASGER: f
-sep. 19, 2019 2:30:09 AM MyServer main
+sep. 19, 2019 2:30:09 AM MyOLDServer main
 INFO: ASGER: ear
-sep. 19, 2019 2:30:09 AM MyServer main
+sep. 19, 2019 2:30:09 AM MyOLDServer main
 INFO: ASGER: 
-sep. 19, 2019 2:30:09 AM MyServer main
+sep. 19, 2019 2:30:09 AM MyOLDServer main
 INFO: ASGER: 41
-sep. 19, 2019 2:30:09 AM MyServer main
+sep. 19, 2019 2:30:09 AM MyOLDServer main
 INFO: ASGER: 41
-sep. 19, 2019 2:30:10 AM MyServer main
+sep. 19, 2019 2:30:10 AM MyOLDServer main
 INFO: ASGER: 4
-sep. 19, 2019 2:30:10 AM MyServer main
+sep. 19, 2019 2:30:10 AM MyOLDServer main
 INFO: ASGER: 1
-sep. 19, 2019 2:30:10 AM MyServer main
+sep. 19, 2019 2:30:10 AM MyOLDServer main
 INFO: ASGER: gs
-sep. 19, 2019 2:30:10 AM MyServer main
+sep. 19, 2019 2:30:10 AM MyOLDServer main
 INFO: ASGER: bv
-sep. 19, 2019 2:30:10 AM MyServer main
+sep. 19, 2019 2:30:10 AM MyOLDServer main
 INFO: ASGER: seg
-sep. 19, 2019 2:30:10 AM MyServer main
+sep. 19, 2019 2:30:10 AM MyOLDServer main
 INFO: ASGER: s
-sep. 19, 2019 2:30:11 AM MyServer main
+sep. 19, 2019 2:30:11 AM MyOLDServer main
 INFO: ASGER: gesg
-sep. 19, 2019 2:30:11 AM MyServer main
+sep. 19, 2019 2:30:11 AM MyOLDServer main
 INFO: ASGER: se
-sep. 19, 2019 2:30:11 AM MyServer main
+sep. 19, 2019 2:30:11 AM MyOLDServer main
 INFO: ASGER: g
-sep. 19, 2019 2:30:12 AM MyServer main
+sep. 19, 2019 2:30:12 AM MyOLDServer main
 INFO: ASGER: stop
-sep. 19, 2019 6:31:30 AM ServerTest run
+sep. 19, 2019 6:31:30 AM ServerThread run
 INFO: ali: HEJ
-sep. 19, 2019 6:35:35 AM ServerTest run
+sep. 19, 2019 6:35:35 AM ServerThread run
 INFO: ali: HEJ JEG ER ALI
-sep. 19, 2019 6:35:44 AM ServerTest run
+sep. 19, 2019 6:35:44 AM ServerThread run
 INFO: john: HEJ MIT NAVN ER JOHN
-sep. 19, 2019 6:36:08 AM ServerTest run
+sep. 19, 2019 6:36:08 AM ServerThread run
 INFO: ali: stop
-sep. 19, 2019 6:36:12 AM ServerTest run
+sep. 19, 2019 6:36:12 AM ServerThread run
 INFO: john: stop
-sep. 19, 2019 6:50:46 AM ServerTest run
+sep. 19, 2019 6:50:46 AM ServerThread run
 INFO: ib: hej med je
-sep. 19, 2019 6:50:54 AM ServerTest run
+sep. 19, 2019 6:50:54 AM ServerThread run
 INFO: ALI: ok
-sep. 19, 2019 6:50:58 AM ServerTest run
+sep. 19, 2019 6:50:58 AM ServerThread run
 INFO: WAJID: er du sej?
-sep. 19, 2019 6:51:03 AM ServerTest run
+sep. 19, 2019 6:51:03 AM ServerThread run
 INFO: WAJID: stop
-sep. 19, 2019 6:51:06 AM ServerTest run
+sep. 19, 2019 6:51:06 AM ServerThread run
 INFO: ALI: stop
-sep. 19, 2019 6:51:12 AM ServerTest run
+sep. 19, 2019 6:51:12 AM ServerThread run
 INFO: ib: stop
+sep. 19, 2019 7:00:11 AM MyOLDServer main
+INFO: al: hej
+sep. 19, 2019 7:00:20 AM MyOLDServer main
+INFO: al: hi
+sep. 19, 2019 7:01:59 AM MyOLDServer main
+INFO: al: hello
+sep. 19, 2019 7:02:40 AM MyOLDServer main
+INFO: al: HEJ
+sep. 19, 2019 7:02:45 AM MyOLDServer main
+INFO: al: stop
+sep. 19, 2019 7:04:51 AM ServerThread run
+INFO: ali: HEJ
+sep. 19, 2019 7:05:00 AM ServerThread run
+INFO: Jarl: hello
+sep. 19, 2019 7:13:10 AM ServerThread run
+INFO: port5: HEJ JEG ER PORT 5
+sep. 19, 2019 7:13:17 AM ServerThread run
+INFO: port4: JEG er port4
+sep. 19, 2019 7:13:22 AM ServerThread run
+INFO: port3: port3 hr
+sep. 19, 2019 7:13:29 AM ServerThread run
+INFO: port2: hi my name is port 2
+sep. 19, 2019 7:13:35 AM ServerThread run
+INFO: port1: WOOOW port1!
+sep. 19, 2019 7:13:40 AM ServerThread run
+INFO: port5: stop
+sep. 19, 2019 7:13:43 AM ServerThread run
+INFO: port4: stop
+sep. 19, 2019 7:13:46 AM ServerThread run
+INFO: port3: stop
+sep. 19, 2019 7:13:48 AM ServerThread run
+INFO: port2: stop
+sep. 19, 2019 7:13:50 AM ServerThread run
+INFO: port1: stop

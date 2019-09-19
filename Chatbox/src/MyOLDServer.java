@@ -4,10 +4,10 @@ import java.util.logging.FileHandler;
 import java.util.logging.Logger;
 import java.util.logging.SimpleFormatter;
 
-class MyServer {
+class MyOLDServer {
 
     public static void main(String args[]) throws Exception {
-        final int portNumber = 4567;
+        final int portNumber = 6000;
         System.out.println("Creating server socket on port " + portNumber);
         ServerSocket ss = new ServerSocket(portNumber);
         Socket s = ss.accept();
@@ -20,9 +20,9 @@ class MyServer {
         fileHandler.setFormatter(formatter);
         logger.addHandler(fileHandler);
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-
+        String allMsg = "";
         String user2;
-        user2=din.readUTF();
+        user2 = din.readUTF();
 
         System.out.println("USERNAME: " + user2);
 
@@ -30,7 +30,8 @@ class MyServer {
         while (!str.equals("stop")) {
             str = din.readUTF();
             System.out.println(user2 + " says: " + str);
-            dout.writeUTF(str2);
+            allMsg = str;
+            dout.writeUTF(allMsg);
             logger.info(user2 + ": "+ str);
             dout.flush();
         }

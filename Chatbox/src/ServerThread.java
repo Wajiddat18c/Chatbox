@@ -5,11 +5,11 @@ import java.util.logging.FileHandler;
 import java.util.logging.Logger;
 import java.util.logging.SimpleFormatter;
 
-public class ServerTest implements Runnable {
+public class ServerThread implements Runnable {
 
     private String name;
     private int portNumber;
-    public ServerTest (String s, int port)
+    public ServerThread(String s, int port)
     {
         name = s;
         portNumber = port;
@@ -33,7 +33,7 @@ public class ServerTest implements Runnable {
         fileHandler.setFormatter(formatter);
         logger.addHandler(fileHandler);
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-
+            String allMsg = "";
         String user2;
         user2=din.readUTF();
 
@@ -43,7 +43,8 @@ public class ServerTest implements Runnable {
         while (!str.equals("stop")) {
             str = din.readUTF();
             System.out.println(user2 + " says: " + str);
-            dout.writeUTF(str2);
+            allMsg = str;
+            dout.writeUTF(allMsg);
             logger.info(user2 + ": "+ str);
             dout.flush();
         }

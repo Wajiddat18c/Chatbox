@@ -1,15 +1,15 @@
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-public class Test {
+public class ServerRun {
     static final int MAX_T = 5;
 
     public static void main(String[] args) {
-        Runnable r1 = new ServerTest("Task 1", 6000);
-        Runnable r2 = new ServerTest("Task 2", 7000);
-        Runnable r3 = new ServerTest("Task 3", 8000);
-        Runnable r4 = new ServerTest("Task 4", 9000);
-        Runnable r5 = new ServerTest("Task 5", 10000);
+        Runnable r1 = new ServerThread("Task 1", 6000);
+        Runnable r2 = new ServerThread("Task 2", 7000);
+        Runnable r3 = new ServerThread("Task 3", 8000);
+        Runnable r4 = new ServerThread("Task 4", 9000);
+        Runnable r5 = new ServerThread("Task 5", 10000);
 
 
         // creates a thread pool with MAX_T no. of
