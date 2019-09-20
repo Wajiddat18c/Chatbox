@@ -28,7 +28,7 @@ public class ServerThread implements Runnable {
         DataInputStream din = new DataInputStream(s.getInputStream());
         DataOutputStream dout = new DataOutputStream(s.getOutputStream());
         Logger logger = Logger.getLogger("MyLog");
-        FileHandler fileHandler = new FileHandler("C:\\Users\\wajid\\Desktop\\Github reops\\Chatbox\\Chatbox\\Chatbox\\src\\Log\\chatlog.txt", true);
+        FileHandler fileHandler = new FileHandler("E:\\Users\\Ejer\\Documents\\GitHub\\Chatbox\\Chatbox\\src\\Log\\chatlog.txt", true);
         SimpleFormatter formatter = new SimpleFormatter();
         fileHandler.setFormatter(formatter);
         logger.addHandler(fileHandler);

@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17d9dd7d-fb13-4cb9-bedd-9ea6de45e1fe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Log/chatlog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Log/chatlog.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Log/chatlog.txt.1" beforeDir="false" afterPath="$PROJECT_DIR$/src/Log/chatlog.txt.1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Log/chatlog.txt.2" beforeDir="false" afterPath="$PROJECT_DIR$/src/Log/chatlog.txt.2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClientRun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyOLDServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ServerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ServerThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ServerRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ServerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ServerThread.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +32,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -48,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ClientRun">
     <configuration name="ChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ChatServer" />
       <module name="Chatbox" />
@@ -117,6 +115,7 @@
       <workItem from="1568805936254" duration="447000" />
       <workItem from="1568807549657" duration="561000" />
       <workItem from="1568840602765" duration="9574000" />
+      <workItem from="1569002169444" duration="460000" />
     </task>
     <servers />
   </component>
