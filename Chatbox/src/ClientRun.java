@@ -4,6 +4,9 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
 
+/**
+ * Denne Klasse køre Clinter
+ */
 class ClientRun {
     public static void main(String args[]) throws Exception {
         Scanner scan = new Scanner(System.in);
@@ -74,6 +77,9 @@ class ClientRun {
 
         System.out.println("Velkommen til Chatrum");
         System.out.println("Du kan nu skrive en beskid som vil blive vist til alle Clienter gennem Serveren!");
+            /**
+             * Denne while lykke køre indtil man skriver "stop"
+             */
         while (!str.equals("stop")) {
             str = br.readLine();
             dout.writeUTF(str);

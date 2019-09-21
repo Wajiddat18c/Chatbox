@@ -1,6 +1,9 @@
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
+/**
+ * Denne klasse kører vores server
+ */
 public class ServerRun {
     static final int MAX_T = 5;
 
@@ -12,18 +15,24 @@ public class ServerRun {
         Runnable r5 = new ServerThread("Task 5", 6004);
 
 
-        // creates a thread pool with MAX_T no. of
-        // threads as the fixed pool size(Step 2)
+
+        /**
+         * Laver en thread pool med MAX_T.
+         */
         ExecutorService pool = Executors.newFixedThreadPool(MAX_T);
 
-        // passes the Task objects to the pool to execute (Step 3)
+        /**
+         * Laver 5 objekter med en Thread i hver
+         */
         pool.execute(r1);
         pool.execute(r2);
         pool.execute(r3);
         pool.execute(r4);
         pool.execute(r5);
 
-        // pool shutdown ( Step 4)
+        /**
+         * Lukker threadpool
+         */
         pool.shutdown();
 
 }

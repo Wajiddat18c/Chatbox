@@ -5,16 +5,28 @@ import java.util.logging.FileHandler;
 import java.util.logging.Logger;
 import java.util.logging.SimpleFormatter;
 
+/**
+ * Denne klasse implementer vi Runnable interface med metode run()
+ */
 public class ServerThread implements Runnable {
 
     private String name;
     private int portNumber;
+
+    /**
+     * Detter er min constructor med 2 parameter.
+     * @param s navn for en "task".
+     * @param port sleve portnr som servern kører på.
+     */
     public ServerThread(String s, int port)
     {
         name = s;
         portNumber = port;
     }
 
+    /**
+     * Dette er run() metode som bliver hentet fra Runnable interface.
+     */
     @Override
     public void run() {
 
@@ -22,7 +34,6 @@ public class ServerThread implements Runnable {
         ServerSocket ss = null;
         try {
             ss = new ServerSocket(portNumber);
-
         Socket s = ss.accept();
         System.out.println("Connected to a Client!");
         DataInputStream din = new DataInputStream(s.getInputStream());
