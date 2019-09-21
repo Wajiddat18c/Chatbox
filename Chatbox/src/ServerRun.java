@@ -6,10 +6,10 @@ public class ServerRun {
 
     public static void main(String[] args) {
         Runnable r1 = new ServerThread("Task 1", 6000);
-        Runnable r2 = new ServerThread("Task 2", 7000);
-        Runnable r3 = new ServerThread("Task 3", 8000);
-        Runnable r4 = new ServerThread("Task 4", 9000);
-        Runnable r5 = new ServerThread("Task 5", 10000);
+        Runnable r2 = new ServerThread("Task 2", 6001);
+        Runnable r3 = new ServerThread("Task 3", 6002);
+        Runnable r4 = new ServerThread("Task 4", 6003);
+        Runnable r5 = new ServerThread("Task 5", 6004);
 
 
         // creates a thread pool with MAX_T no. of
