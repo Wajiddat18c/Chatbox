@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17d9dd7d-fb13-4cb9-bedd-9ea6de45e1fe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Log/chatlog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Log/chatlog.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Log/chatlog.txt.1" beforeDir="false" afterPath="$PROJECT_DIR$/Log/chatlog.txt.1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Log/chatlog.txt.1.lck" beforeDir="false" afterPath="$PROJECT_DIR$/Log/chatlog.txt.1.lck" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Log/chatlog.txt.2" beforeDir="false" afterPath="$PROJECT_DIR$/Log/chatlog.txt.2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Log/chatlog.txt.3" beforeDir="false" afterPath="$PROJECT_DIR$/Log/chatlog.txt.3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Log/chatlog.txt.4" beforeDir="false" afterPath="$PROJECT_DIR$/Log/chatlog.txt.4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Log/chatlog.txt.lck" beforeDir="false" afterPath="$PROJECT_DIR$/Log/chatlog.txt.lck" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ServerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ServerThread.java" afterDir="false" />
-    </list>
+    <list default="true" id="17d9dd7d-fb13-4cb9-bedd-9ea6de45e1fe" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +21,7 @@
   <component name="ProjectId" id="1QxB0EVMz022SzI22QBOcGKd7Tq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -42,6 +32,11 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wajid\Desktop\Github reops\Chatbox\Chatbox\Chatbox" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -126,7 +121,7 @@
       <workItem from="1568840602765" duration="9574000" />
       <workItem from="1569002169444" duration="562000" />
       <workItem from="1569071431078" duration="4332000" />
-      <workItem from="1569222843816" duration="497000" />
+      <workItem from="1569222843816" duration="1201000" />
     </task>
     <servers />
   </component>
