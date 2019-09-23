@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17d9dd7d-fb13-4cb9-bedd-9ea6de45e1fe" name="Default Changelist" comment="" />
+    <list default="true" id="17d9dd7d-fb13-4cb9-bedd-9ea6de45e1fe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Log/chatlog.txt.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log/chatlog.txt.1.lck" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +124,7 @@
       <workItem from="1568840602765" duration="9574000" />
       <workItem from="1569002169444" duration="562000" />
       <workItem from="1569071431078" duration="4332000" />
-      <workItem from="1569222843816" duration="1201000" />
+      <workItem from="1569222843816" duration="1553000" />
     </task>
     <servers />
   </component>
