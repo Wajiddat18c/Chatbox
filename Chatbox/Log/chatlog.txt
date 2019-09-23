@@ -296,3 +296,15 @@ sep. 21, 2019 4:23:21 PM ServerThread run
 INFO: ad: d
 sep. 21, 2019 4:23:21 PM ServerThread run
 INFO: ad: stop
+sep. 23, 2019 9:17:08 AM ServerThread run
+INFO: wajid: HELLO
+sep. 23, 2019 9:17:18 AM ServerThread run
+INFO: wajid: stop
+sep. 23, 2019 9:23:53 AM ServerThread run
+INFO: HEJ_: MIT NAVN ER HEJ!
+sep. 23, 2019 9:24:01 AM ServerThread run
+INFO: akkaf: OK SES!
+sep. 23, 2019 9:24:02 AM ServerThread run
+INFO: akkaf: stop
+sep. 23, 2019 9:24:05 AM ServerThread run
+INFO: HEJ_: stop
