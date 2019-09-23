@@ -15,11 +15,11 @@ public class ServerThread implements Runnable {
 
     /**
      * Detter er min constructor med 2 parameter.
-     * @param s navn for en "task".
+     *
+     * @param s    navn for en "task".
      * @param port sleve portnr som servern kører på.
      */
-    public ServerThread(String s, int port)
-    {
+    public ServerThread(String s, int port) {
         name = s;
         portNumber = port;
     }
@@ -34,36 +34,36 @@ public class ServerThread implements Runnable {
         ServerSocket ss = null;
         try {
             ss = new ServerSocket(portNumber);
-        Socket s = ss.accept();
-        System.out.println("Connected to a Client!");
-        DataInputStream din = new DataInputStream(s.getInputStream());
-        DataOutputStream dout = new DataOutputStream(s.getOutputStream());
-        Logger logger = Logger.getLogger("MyLog");
-        FileHandler fileHandler = new FileHandler("./Log/chatlog.txt", true);
-        SimpleFormatter formatter = new SimpleFormatter();
-        fileHandler.setFormatter(formatter);
-        logger.addHandler(fileHandler);
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+            Socket s = ss.accept();
+            System.out.println("Connected to a Client!");
+            DataInputStream din = new DataInputStream(s.getInputStream());
+            DataOutputStream dout = new DataOutputStream(s.getOutputStream());
+            Logger logger = Logger.getLogger("MyLog");
+            FileHandler fileHandler = new FileHandler("./Log/chatlog.txt", true);
+            SimpleFormatter formatter = new SimpleFormatter();
+            fileHandler.setFormatter(formatter);
+            logger.addHandler(fileHandler);
+            BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
             String allMsg = "";
-        String user2;
-        user2=din.readUTF();
+            String user2;
+            user2 = din.readUTF();
 
-        System.out.println("USERNAME: " + user2);
+            System.out.println("USERNAME: " + user2);
 
-        String str = "", str2 = "";
-        while (!str.equals("stop")) {
-            str = din.readUTF();
-            System.out.println(user2 + " says: " + str);
-            allMsg = str;
-            dout.writeUTF(allMsg);
-            logger.info(user2 + ": "+ str);
-            dout.flush();
-        }
+            String str = "", str2 = "";
+            while (!str.equals("stop")) {
+                str = din.readUTF();
+                System.out.println(user2 + " says: " + str);
+                allMsg = str;
+                dout.writeUTF(allMsg);
+                logger.info(user2 + ": " + str);
+                dout.flush();
+            }
 
 
-        din.close();
-        s.close();
-        ss.close();
+            din.close();
+            s.close();
+            ss.close();
         } catch (IOException e) {
             e.printStackTrace();
         }

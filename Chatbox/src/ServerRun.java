@@ -15,7 +15,6 @@ public class ServerRun {
         Runnable r5 = new ServerThread("Task 5", 6004);
 
 
-
         /**
          * Laver en thread pool med MAX_T.
          */
@@ -35,5 +34,5 @@ public class ServerRun {
          */
         pool.shutdown();
 
-}
+    }
 }

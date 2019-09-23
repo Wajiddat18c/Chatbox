@@ -54,46 +54,45 @@ class ClientRun {
 
             Socket s = new Socket("localhost", portNr);
 
-        DataOutputStream dout = new DataOutputStream(s.getOutputStream());
-        DataInputStream din = new DataInputStream(s.getInputStream());
+            DataOutputStream dout = new DataOutputStream(s.getOutputStream());
+            DataInputStream din = new DataInputStream(s.getInputStream());
 
 
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        String str = "";
-        String allMsg = "";
-        String user;
-        boolean run = true;
-        while (run) {
-            System.out.print("Skriv UserName Her: ");
-            user = br.readLine();
-            if (user.matches("^[a-zA-Z.\\-_]{1,12}$")) {
+            BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+            String str = "";
+            String allMsg = "";
+            String user;
+            boolean run = true;
+            while (run) {
+                System.out.print("Skriv UserName Her: ");
+                user = br.readLine();
+                if (user.matches("^[a-zA-Z.\\-_]{1,12}$")) {
 
-                dout.writeUTF(user);
-                run = false;
-            } else {
-                System.out.println("Your username must be max be 12 chars long \nOnly letters, digits, ‘-‘ and ‘_’ allowed");
+                    dout.writeUTF(user);
+                    run = false;
+                } else {
+                    System.out.println("Your username must be max be 12 chars long \nOnly letters, digits, ‘-‘ and ‘_’ allowed");
+                }
             }
-        }
 
-        System.out.println("Velkommen til Chatrum");
-        System.out.println("Du kan nu skrive en beskid som vil blive vist til alle Clienter gennem Serveren!");
+            System.out.println("Velkommen til Chatrum");
+            System.out.println("Du kan nu skrive en beskid som vil blive vist til alle Clienter gennem Serveren!");
             /**
              * Denne while lykke køre indtil man skriver "stop"
              */
-        while (!str.equals("stop")) {
-            str = br.readLine();
-            dout.writeUTF(str);
-            allMsg = din.readUTF();
-            System.out.println("Du siger: " + allMsg);
-            dout.flush();
-            System.out.println("Sendt");
-            System.out.println("Skriv \"stop\" for at disconnect");
-        }
+            while (!str.equals("stop")) {
+                str = br.readLine();
+                dout.writeUTF(str);
+                allMsg = din.readUTF();
+                System.out.println("Du siger: " + allMsg);
+                dout.flush();
+                System.out.println("Sendt");
+                System.out.println("Skriv \"stop\" for at disconnect");
+            }
 
-        dout.close();
-        s.close();
-        }
-        catch (ConnectException e){
+            dout.close();
+            s.close();
+        } catch (ConnectException e) {
             System.out.println("Port allerede i brug!");
             System.out.println("Start programmet igen og vælg en anden port!");
             System.exit(0);
