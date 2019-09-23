@@ -360,3 +360,27 @@ sep. 23, 2019 9:51:24 AM ServerThread run
 INFO: al:  fop1iop231io131o aj1213 kojfsf 2313
 sep. 23, 2019 9:51:32 AM ServerThread run
 INFO: al: stop
+sep. 23, 2019 11:59:24 AM ServerThread run
+INFO: lkfakf: kfkjsekf1414 
+sep. 23, 2019 11:59:30 AM ServerThread run
+INFO: dpjda: fjfsfs
+sep. 23, 2019 11:59:46 AM ServerThread run
+INFO: dpjda: fafa
+sep. 23, 2019 11:59:48 AM ServerThread run
+INFO: lkfakf: kajfa
+sep. 23, 2019 11:59:49 AM ServerThread run
+INFO: lkfakf: stop
+sep. 23, 2019 11:59:53 AM ServerThread run
+INFO: dpjda: stop
+sep. 23, 2019 12:38:06 PM ServerThread run
+INFO: Tarik: HEJ MEd jer
+sep. 23, 2019 12:38:16 PM ServerThread run
+INFO: Wajid: dahfjahfja 
+sep. 23, 2019 12:38:24 PM ServerThread run
+INFO: adjaiofja: eiejiwojwi r2n i24j2
+sep. 23, 2019 12:38:29 PM ServerThread run
+INFO: Tarik: stop
+sep. 23, 2019 12:38:32 PM ServerThread run
+INFO: Wajid: stop
+sep. 23, 2019 12:38:35 PM ServerThread run
+INFO: adjaiofja: stop
