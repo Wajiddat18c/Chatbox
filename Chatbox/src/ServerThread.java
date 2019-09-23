@@ -1,3 +1,7 @@
+/**
+ * @author Wajid Ahmad
+ */
+
 import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;
@@ -36,14 +40,14 @@ public class ServerThread implements Runnable {
             ss = new ServerSocket(portNumber);
             Socket s = ss.accept();
             System.out.println("Connected to a Client!");
-            DataInputStream din = new DataInputStream(s.getInputStream());
-            DataOutputStream dout = new DataOutputStream(s.getOutputStream());
-            Logger logger = Logger.getLogger("MyLog");
-            FileHandler fileHandler = new FileHandler("./Log/chatlog.txt", true);
-            SimpleFormatter formatter = new SimpleFormatter();
+            DataInputStream  din         = new DataInputStream(s.getInputStream());
+            DataOutputStream dout        = new DataOutputStream(s.getOutputStream());
+            Logger           logger      = Logger.getLogger("MyLog");
+            FileHandler      fileHandler = new FileHandler("./Log/chatlog.txt", true);
+            SimpleFormatter  formatter   = new SimpleFormatter();
+            BufferedReader   br          = new BufferedReader(new InputStreamReader(System.in));
             fileHandler.setFormatter(formatter);
             logger.addHandler(fileHandler);
-            BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
             String allMsg = "";
             String user2;
             user2 = din.readUTF();

@@ -384,3 +384,31 @@ sep. 23, 2019 12:38:32 PM ServerThread run
 INFO: Wajid: stop
 sep. 23, 2019 12:38:35 PM ServerThread run
 INFO: adjaiofja: stop
+sep. 23, 2019 1:08:44 PM ServerThread run
+INFO: asdlkad-: sfds
+sep. 23, 2019 1:08:46 PM ServerThread run
+INFO: asdlkad-: stop
+sep. 23, 2019 1:44:59 PM ServerThread run
+INFO: Asger: jfsfjskf k2o34 
+sep. 23, 2019 1:45:06 PM ServerThread run
+INFO: Wajid: lwqrkjwkrw krj2io4j234 
+sep. 23, 2019 1:45:37 PM ServerThread run
+INFO: Asger: Hej
+sep. 23, 2019 1:50:00 PM ServerThread run
+INFO: Asger: stop
+sep. 23, 2019 1:50:03 PM ServerThread run
+INFO: Wajid: stop
+sep. 23, 2019 2:21:15 PM ServerThread run
+INFO: daw: d123
+sep. 23, 2019 2:45:48 PM ServerThread run
+INFO: john: Hej med dig
+sep. 23, 2019 2:45:56 PM ServerThread run
+INFO: ali: HEY BRO
+sep. 23, 2019 2:46:00 PM ServerThread run
+INFO: ali: læadkajd1
+sep. 23, 2019 2:46:03 PM ServerThread run
+INFO: john: klaklfjq 1ioj 1414
+sep. 23, 2019 2:46:04 PM ServerThread run
+INFO: john: stop
+sep. 23, 2019 2:46:07 PM ServerThread run
+INFO: ali: stop

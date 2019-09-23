@@ -1,3 +1,7 @@
+/**
+ * @author Wajid Ahmad
+ */
+
 import java.net.*;
 import java.io.*;
 import java.util.InputMismatchException;
@@ -10,7 +14,7 @@ import java.util.concurrent.TimeUnit;
 class ClientRun {
     public static void main(String args[]) throws Exception {
         Scanner scan = new Scanner(System.in);
-        int valg;
+
         int portNr = 0;
         System.out.println("Vælg dit unikke port: \n" +
                 "Tast 1: port 6000\n" +
@@ -19,9 +23,12 @@ class ClientRun {
                 "Tast 4: port 6003\n" +
                 "Tast 5: port 6004");
         boolean runPort = true;
+
         while (runPort) {
+            int valg;
 
             try {
+
 
                 valg = scan.nextInt();
                 if (valg == 1) {
@@ -48,7 +55,9 @@ class ClientRun {
                 System.exit(0);
             }
 
+
         }
+
         try {
 
 

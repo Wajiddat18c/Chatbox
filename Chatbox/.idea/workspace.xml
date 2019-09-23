@@ -7,8 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17d9dd7d-fb13-4cb9-bedd-9ea6de45e1fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Log/chatlog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Log/chatlog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClientRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClientRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ServerRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ServerRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ServerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ServerThread.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +42,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -129,7 +133,7 @@
       <workItem from="1568840602765" duration="9574000" />
       <workItem from="1569002169444" duration="562000" />
       <workItem from="1569071431078" duration="4332000" />
-      <workItem from="1569222843816" duration="6216000" />
+      <workItem from="1569222843816" duration="12707000" />
     </task>
     <servers />
   </component>
