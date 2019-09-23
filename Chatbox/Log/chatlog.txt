@@ -350,3 +350,13 @@ sep. 23, 2019 9:42:45 AM ServerThread run
 INFO: aoajf_: stop
 sep. 23, 2019 9:42:48 AM ServerThread run
 INFO: AKFAFAF: stop
+sep. 23, 2019 9:51:16 AM ServerThread run
+INFO: al: adakd
+sep. 23, 2019 9:51:18 AM ServerThread run
+INFO: al: alfkalfk lakfalk flakfla kflal kfa
+sep. 23, 2019 9:51:20 AM ServerThread run
+INFO: al: a kf 1j1k1k31k 1 
+sep. 23, 2019 9:51:24 AM ServerThread run
+INFO: al:  fop1iop231io131o aj1213 kojfsf 2313
+sep. 23, 2019 9:51:32 AM ServerThread run
+INFO: al: stop

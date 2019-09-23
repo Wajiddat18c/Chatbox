@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Chatbox:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="17d9dd7d-fb13-4cb9-bedd-9ea6de45e1fe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Log/chatlog.txt.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Log/chatlog.txt.1.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +34,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -124,7 +128,7 @@
       <workItem from="1568840602765" duration="9574000" />
       <workItem from="1569002169444" duration="562000" />
       <workItem from="1569071431078" duration="4332000" />
-      <workItem from="1569222843816" duration="1553000" />
+      <workItem from="1569222843816" duration="2183000" />
     </task>
     <servers />
   </component>
