@@ -23,6 +23,11 @@ class ClientRun {
 
     }
 
+    /**
+     * Denne Metode Styrer hvilken port en Client tilslutter.
+     * En Client kan ikke bruge en port som alledere er i brug.
+     * @return portNr som User vælger via input
+     */
     public static Integer Port() {
         Scanner scan = new Scanner(System.in);
 
@@ -67,6 +72,10 @@ class ClientRun {
         return portNr;
     }
 
+    /**
+     * Denne metode håndtere selve kommunikation mellem Client og Server.
+     * @throws Exception
+     */
     public static void Chat() throws Exception {
         try {
 
@@ -102,6 +111,10 @@ class ClientRun {
         }
     }
 
+    /**
+     * Denne metode styre Krav for Username
+     * @throws IOException
+     */
     public static void UserName() throws IOException {
         String  user;
         boolean run = true;
