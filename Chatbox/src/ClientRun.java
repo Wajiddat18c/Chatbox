@@ -12,7 +12,18 @@ import java.util.concurrent.TimeUnit;
  * Denne Klasse køre Clinter
  */
 class ClientRun {
+
+    static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+    static DataOutputStream dout;
+    static DataInputStream din;
+
     public static void main(String args[]) throws Exception {
+
+        Chat();
+
+    }
+
+    public static Integer Port() {
         Scanner scan = new Scanner(System.in);
 
         int portNr = 0;
@@ -26,9 +37,7 @@ class ClientRun {
 
         while (runPort) {
             int valg;
-
             try {
-
 
                 valg = scan.nextInt();
                 if (valg == 1) {
@@ -54,38 +63,23 @@ class ClientRun {
                 System.out.println("Skriv et tal mellem 1-5!");
                 System.exit(0);
             }
-
-
         }
+        return portNr;
+    }
 
+    public static void Chat() throws Exception {
         try {
 
-
-            Socket s = new Socket("localhost", portNr);
-
-            DataOutputStream dout = new DataOutputStream(s.getOutputStream());
-            DataInputStream din = new DataInputStream(s.getInputStream());
+            Socket s = new Socket("localhost", Port());
+            dout = new DataOutputStream(s.getOutputStream());
+            din = new DataInputStream(s.getInputStream());
 
 
-            BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-            String str = "";
+            String str    = "";
             String allMsg = "";
-            String user;
-            boolean run = true;
-            while (run) {
-                System.out.print("Skriv UserName Her: ");
-                user = br.readLine();
-                if (user.matches("^[a-zA-Z.\\-_]{1,12}$")) {
 
-                    dout.writeUTF(user);
-                    run = false;
-                } else {
-                    System.out.println("Your username must be max be 12 chars long \nOnly letters, digits, ‘-‘ and ‘_’ allowed");
-                }
-            }
+            UserName();
 
-            System.out.println("Velkommen til Chatrum");
-            System.out.println("Du kan nu skrive en beskid som vil blive vist til alle Clienter gennem Serveren!");
             /**
              * Denne while lykke køre indtil man skriver "stop"
              */
@@ -108,4 +102,22 @@ class ClientRun {
         }
     }
 
+    public static void UserName() throws IOException {
+        String  user;
+        boolean run = true;
+        while (run) {
+            System.out.print("Skriv UserName Her: ");
+            user = br.readLine();
+            if (user.matches("^[a-zA-Z.\\-_]{1,12}$")) {
+
+                dout.writeUTF(user);
+                run = false;
+            } else {
+                System.out.println("Your username must be max be 12 chars long \nOnly letters, digits, ‘-‘ and ‘_’ allowed");
+            }
+        }
+
+        System.out.println("Velkommen til Chatrum");
+        System.out.println("Du kan nu skrive en beskid som vil blive vist til alle Clienter gennem Serveren!");
+    }
 }
