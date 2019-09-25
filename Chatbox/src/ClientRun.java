@@ -1,6 +1,6 @@
 /**
  * @author Wajid Ahmad
- * ALI ER SEJ
+ * 
  */
 
 import java.net.*;
