@@ -95,12 +95,17 @@ class ClientRun {
              */
             while (!str.equals("stop")) {
                 str = br.readLine();
-                dout.writeUTF(str);
-                allMsg = din.readUTF();
-                System.out.println("Du siger: " + allMsg);
-                dout.flush();
-                System.out.println("Sendt");
-                System.out.println("Skriv \"stop\" for at disconnect");
+                if (str.matches("^[0-9a-zA-Z.\\-_,.!?æøåÆØÅ ]{1,250}$")) {
+                    dout.writeUTF(str);
+                    allMsg = din.readUTF();
+                    System.out.println("Du siger: " + allMsg);
+                    dout.flush();
+                    System.out.println("Sendt");
+                    System.out.println("Skriv \"stop\" for at disconnect");
+                }else {
+                    System.out.println("MAX 250 CHAR");
+                }
+
             }
 
             dout.close();

@@ -464,3 +464,13 @@ sep. 25, 2019 9:17:03 PM ServerThread run
 INFO: adli: stop
 sep. 25, 2019 9:17:05 PM ServerThread run
 INFO: lidl: stop
+sep. 25, 2019 9:34:30 PM ServerThread run
+INFO: he: hi
+sep. 25, 2019 9:34:32 PM ServerThread run
+INFO: he: stop
+sep. 25, 2019 10:10:02 PM ServerThread run
+INFO: ali: hej med dig!
+sep. 25, 2019 10:10:16 PM ServerThread run
+INFO: ali: kja 9 a1234 4
+sep. 25, 2019 10:10:47 PM ServerThread run
+INFO: ali: stop
