@@ -428,3 +428,15 @@ sep. 25, 2019 1:02:03 AM ServerThread run
 INFO: aflkaf: stop
 sep. 25, 2019 1:02:07 AM ServerThread run
 INFO: adiuw_: stop
+sep. 25, 2019 5:43:57 PM ServerThread run
+INFO: Ali: HEJ
+sep. 25, 2019 5:44:02 PM ServerThread run
+INFO: Wajid: jafajf 4 1424 
+sep. 25, 2019 5:44:15 PM ServerThread run
+INFO: Ali: fakfaf
+sep. 25, 2019 5:44:16 PM ServerThread run
+INFO: Ali:  afkaå fa
+sep. 25, 2019 5:44:23 PM ServerThread run
+INFO: Ali: stop
+sep. 25, 2019 5:44:25 PM ServerThread run
+INFO: Wajid: stop
