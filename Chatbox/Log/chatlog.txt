@@ -474,3 +474,11 @@ sep. 25, 2019 10:10:16 PM ServerThread run
 INFO: ali: kja 9 a1234 4
 sep. 25, 2019 10:10:47 PM ServerThread run
 INFO: ali: stop
+sep. 26, 2019 11:50:44 AM ServerThread run
+INFO: wajid: YO
+sep. 26, 2019 11:50:47 AM ServerThread run
+INFO: ali: sup
+sep. 26, 2019 11:50:52 AM ServerThread run
+INFO: ali: stop
+sep. 26, 2019 11:50:56 AM ServerThread run
+INFO: wajid: stop
