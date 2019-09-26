@@ -482,3 +482,17 @@ sep. 26, 2019 11:50:52 AM ServerThread run
 INFO: ali: stop
 sep. 26, 2019 11:50:56 AM ServerThread run
 INFO: wajid: stop
+sep. 26, 2019 12:34:28 PM ServerThread run
+INFO: jonas: highhh u yu g
+sep. 26, 2019 12:34:39 PM ServerThread run
+INFO: wajid: lui6567t r drt dr
+sep. 26, 2019 12:34:45 PM ServerThread run
+INFO: wajid: stop
+sep. 26, 2019 12:34:49 PM ServerThread run
+INFO: jonas: stop
+sep. 26, 2019 12:38:42 PM ServerThread run
+INFO: hey: dabbb
+sep. 26, 2019 12:38:49 PM ServerThread run
+INFO: hey: active
+sep. 26, 2019 12:38:52 PM ServerThread run
+INFO: hey: stop
