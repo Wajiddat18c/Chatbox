@@ -496,3 +496,29 @@ sep. 26, 2019 12:38:49 PM ServerThread run
 INFO: hey: active
 sep. 26, 2019 12:38:52 PM ServerThread run
 INFO: hey: stop
+sep. 26, 2019 1:01:07 PM ServerThread run
+INFO: VIRKER: ljeahfjle 
+sep. 26, 2019 1:01:07 PM ServerThread run
+INFO: VIRKER: f
+sep. 26, 2019 1:01:08 PM ServerThread run
+INFO: VIRKER:  fp ap
+sep. 26, 2019 1:01:08 PM ServerThread run
+INFO: VIRKER: fa
+sep. 26, 2019 1:01:08 PM ServerThread run
+INFO: VIRKER: ae påefod 
+sep. 26, 2019 1:01:09 PM ServerThread run
+INFO: VIRKER: f 
+sep. 26, 2019 1:01:10 PM ServerThread run
+INFO: VIRKER:  
+sep. 26, 2019 1:01:10 PM ServerThread run
+INFO: VIRKER:  å
+sep. 26, 2019 1:01:10 PM ServerThread run
+INFO: VIRKER: f 
+sep. 26, 2019 1:01:12 PM ServerThread run
+INFO: VIRKER: fh h åofg
+sep. 26, 2019 1:01:13 PM ServerThread run
+INFO: VIRKER: fh zh 
+sep. 26, 2019 1:01:13 PM ServerThread run
+INFO: VIRKER: aphgdh kfølhk d
+sep. 26, 2019 1:01:17 PM ServerThread run
+INFO: VIRKER: stop
